@@ -1,0 +1,11 @@
+{
+  "name": "library-cron",
+  "version": "1.0.0",
+  "description": "Stub repository for library catalog cron job",
+  "main": "",
+  "scripts": {
+    "reset": "curl -X POST https://production-library.onrender.com/reset"
+  },
+  "author": "bprcode <bprcode@gmail.com>",
+  "license": "UNLICENSED"
+}
